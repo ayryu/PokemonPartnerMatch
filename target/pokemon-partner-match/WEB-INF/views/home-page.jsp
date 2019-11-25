@@ -7,6 +7,10 @@
 <body>
 <h2>${homepageMessage}</h2>
 
+<hr>
+
+<a href="match/showMatchingForm">Pokemon Partner Matching Process</a>
+
 </body>
 
 
